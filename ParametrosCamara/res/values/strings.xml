@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Parámetros Camara</string>
+    <string name="nombre">Francisco J. Caracuel</string>
+    <string name="rb_jpg">.jpg</string>
+    <string name="rb_png">.png</string>
+    <string name="tv_almacenamiento">Almacenamiento:</string>
+    <string name="switch_privada">Privada</string>
+    <string name="switch_publica">Pública</string>
+    <string name="tv_nombre">Nombre por defecto:</string>
+    <string name="tv_formato">Formato:</string>
+    <string name="tv_mensaje_cargando">Cargando&#8230;</string>
+    
+    <string name="error_no_camara">Su dispositivo no tiene camara</string>
+    <string name="error_no_intent">No se puede realizar esta acción</string>
+    <string name="error_no_nombre">Introduzca un nombre de archivo</string>
+    <string name="error_no_espacio">No tiene espacio suficiente en el dispositivo</string>
+    <string name="error_imagen_grande">Imagen demasiado grande</string>
+
+</resources>
